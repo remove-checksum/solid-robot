@@ -1,0 +1,10 @@
+{
+  "name": "solid-robot",
+  "packageManager": "yarn@3.5.0",
+  "dependencies": {
+    "nanoid": "^4.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
