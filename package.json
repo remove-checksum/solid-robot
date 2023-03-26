@@ -4,6 +4,12 @@
 	"scripts": {
 		"dev": "vite"
 	},
+<<<<<<< Updated upstream
+=======
+  "dependencies": {
+    "nanoid": "^4.0.1"
+  },
+>>>>>>> Stashed changes
   "devDependencies": {
     "@types/node": "^18.15.10",
     "typescript": "^5.0.2",
